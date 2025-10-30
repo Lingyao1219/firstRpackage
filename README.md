@@ -4,7 +4,7 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of firstRpackage is to do calculations and generate plots.
+The goal of firstRpackage is to do calculations and generate plots. 
 
 ## Installation
 
